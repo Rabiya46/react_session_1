@@ -1,5 +1,15 @@
 import "./App.css";
 
-const App = () => <h1>Js-20</h1>;
+const App = () => {
+  return (
+    <div>
+      <h1>Rabiya</h1>
+
+      <p>JS-20</p>
+
+      <h1>React</h1>
+    </div>
+  );
+};
 
 export default App;
